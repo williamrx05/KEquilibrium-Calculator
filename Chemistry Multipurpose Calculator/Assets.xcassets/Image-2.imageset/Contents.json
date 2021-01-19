@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "KEquilibrium Calculator Icon (5).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "KEquilibrium Calculator Icon (5)-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "KEquilibrium Calculator Icon (5)-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
